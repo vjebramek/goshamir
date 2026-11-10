@@ -1,5 +1,11 @@
 # shamir
 
+[![Test](https://github.com/vjebramek/goshamir/actions/workflows/test.yml/badge.svg)](https://github.com/vjebramek/goshamir/actions/workflows/test.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/vjebramek/goshamir.svg)](https://pkg.go.dev/github.com/vjebramek/goshamir)
+[![Go Report Card](https://goreportcard.com/badge/github.com/vjebramek/goshamir)](https://goreportcard.com/report/github.com/vjebramek/goshamir)
+[![Go version](https://img.shields.io/github/go-mod/go-version/vjebramek/goshamir)](https://github.com/vjebramek/goshamir/blob/main/go.mod)
+[![License](https://img.shields.io/github/license/vjebramek/goshamir)](LICENSE)
+
 A byte-oriented Shamir secret-sharing library over GF(256).
 
 > **Warning:** This project is for learning and experimentation, not production use.
